@@ -1,4 +1,4 @@
-# ponto-online
+# Ponto-online
 Registro Online do Ponto
 Site dedicado para professores/funcionários registrarem a sua presença no trabalho, 
 devido a alguns problemas relacionados ao link da Central de Segurança. Problema esse
